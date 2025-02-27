@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Esteegrace
-- 👀 I’m interested in developing myself and learn new things 
-- 🌱 I’m currently learning software engineering 
+- 👀 I’m interested in developing myself and learning new things 
+- 🌱 I’m currently learning Front-end development 
 - 💞️ I’m looking to collaborate on anything that can improve my skill
 - 📫 How to reach me @estyuju@gmail.com
 
